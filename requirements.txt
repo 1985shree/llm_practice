@@ -27,3 +27,31 @@ six>=1.14
 joblib
 memoized-property
 termcolor
+
+# visualization
+matplotlib
+seaborn
+
+# notebook
+notebook
+
+# NLP
+langchain
+unstructured
+pdfminer.six
+# detectron2
+
+# apps/interface
+requests
+streamlit
+
+# llms/trained models
+huggingface_hub
+
+# vector cloud
+pinecone-client
+
+# scraping tools
+requests
+bs4
+selenium
